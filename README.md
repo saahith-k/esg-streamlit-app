@@ -11,8 +11,11 @@ A Streamlit web app to predict whether a company is sustainable based on ESG sco
 - Batch CSV upload prediction
 - Feature importance graph
 
-### 🔗 Live Demo
-[Click here to try the app](https://your-streamlit-link)
+### 🔗 Live Demo  
+[👉 Click here to try the app](https://esg-app-app-gumtpmqwqzhthznzxzeyyx.streamlit.app/)
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://esg-app-app-gumtpmqwqzhthznzxzeyyx.streamlit.app/)
+
 
 ---
 
